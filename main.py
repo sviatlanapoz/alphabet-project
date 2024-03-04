@@ -1,3 +1,10 @@
+'''
+This program converts a user-inputted word into a sequence of 
+words based on the NATO phonetic alphabet. For each letter in the input, 
+the program looks up and outputs the corresponding NATO phonetic term, creating a set of 
+phonetic words that spell out the original word letter by letter.
+'''
+
 #Importing pandas module 
 import pandas
 
